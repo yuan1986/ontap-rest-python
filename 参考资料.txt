@@ -1,0 +1,7 @@
+https://library.netapp.com/ecmdocs/ECMLP2858435/html/index.html
+
+https://docs.netapp.com/us-en/ontap-automation/python/overview_pcl.html
+
+https://github.com/NetApp/ontap-rest-python/blob/master/examples/rest_api/volume_operations.py
+
+https://pypi.org/project/netapp-ontap/#files
